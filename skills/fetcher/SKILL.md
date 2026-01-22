@@ -1,6 +1,6 @@
 ---
 name: fetcher
-description: Fetch text from a URL
+description: 当你更关心网页中的内容而不是 HTML 的结构时调用
 ---
 
 ## Usage
