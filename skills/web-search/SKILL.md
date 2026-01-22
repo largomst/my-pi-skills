@@ -1,6 +1,6 @@
 ---
 name: web-search
-description: 当需要访问互联网获取时调用
+description: 当需要在互联网进行内容搜索时，读取此文件
 ---
 
 ## Usage
