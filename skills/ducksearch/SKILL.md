@@ -3,17 +3,6 @@ name: ducksearch
 description: 使用 DuckDuckGo 进行网页搜索和内容提取的命令行工具。当用户需要搜索网络信息、查找资料、获取网页内容时使用此 skill。触发场景包括：(1) 搜索网络内容 (2) 获取网页文本 (3) 使用 DuckDuckGo 搜索 (4) 抓取网页内容 
 ---
 
-## 快速使用
-
-### 准备工作
-
-在执行搜索前启用系统代理
-
-```
-export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
-```
-
-
 ### 搜索网络
 
 ```bash
